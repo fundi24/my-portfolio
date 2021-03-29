@@ -1,12 +1,12 @@
 module.exports = {
   //-- SITE SETTINGS -----
   author: "@konstantinmuenster",
-  siteTitle: "Gatsby Starter Portfolio Minimal",
-  siteShortTitle: "Gatsby", // Used as logo text in header, footer, and splash screen
+  siteTitle: "My works",
+  siteShortTitle: "My works", // Used as logo text in header, footer, and splash screen
   siteDescription:
     "A modern one-page portfolio with a clean yet expressive design.",
   siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
-  siteLanguage: "en_US",
+  siteLanguage: "fr-FR",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
   seoTitleSuffix: "Portfolio Minimal", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
   
@@ -64,7 +64,7 @@ module.exports = {
     {
       name: "Github",
       url:
-        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
+        "https://github.com/fundi24",
     },
     {
       name: "Behance",
